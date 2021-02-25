@@ -24,8 +24,6 @@ export const Button = ({
             type={type}>
                 {children}
             </button>
-
-            <Button>Get Started</Button>
         </Link>
     )
 }
